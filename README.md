@@ -78,7 +78,8 @@ _The following commands should be executed in a CMD, Bash or Powershell window. 
    For this step you need Git installed, but you can just download the zip file instead by clicking the button at the top of this page ☝️
 
 ```
-git clone https://github.com/Torantulino/Auto-GPT.git
+git clone https://github.com/juekefanson/Auto-GPT.git
+git clone git://github.com/juekefanson/Auto-GPT.git --depth 1
 ```
 
 2. Navigate to the project directory:
